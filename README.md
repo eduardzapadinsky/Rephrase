@@ -1,10 +1,10 @@
-# EXCHANGE RATES
+# REPHRASE TEST TASK
 
-Interact with the NBP API to retrieve exchange rate data using Python, Django (including Tests) and Swagger.
+Creating rearrangements in a sentence.
 
 ## Functions
 
-Provides exchange rate in dependency for a given currency code, date and number of the last N quotations.
+API in Python, where a single endpoint is implemented, which accepts as input a syntactic tree of English text and returns its paraphrased versions
 
 ## Install
 
